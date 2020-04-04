@@ -12,7 +12,7 @@ S/N | Project | Name | Email | Phone
 6. | [Genotype matcher](project/Genotype-matcher/README.md) | Gabriel Chia | gabu@gmial.com | 08141599763
 7. | [GP Adviser](project/GP-adviser/README.md) | Tasiu Kwaplong S. | tasiukwaplong@gmial.com | 09031514346
 8. | [Lodges and prices](project/lodge-and-price/README.md) | Tunde | tunde@gmial.com | 07082792279
-9. | [Lodges and prices](project/lodge-and-price/README.md) | Abdullahi Muhammad | leeko@gmial.com | 09064888311
+9. | [Lodges and prices](project/lodge-and-price/README.md) | Aliyu Muhammad | leekogram@gmail.com | 07051482123
 
 
 
