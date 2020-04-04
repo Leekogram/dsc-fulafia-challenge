@@ -18,8 +18,8 @@ Phone: 080
 Email: tunde@gmail.com   
 
 Name: Aliyu Muhammad   
-Phone: 080  
-Email: aliyu@gmail.com   
+Phone: 07051482123 
+Email: Leekogram@gmail.com   
 
 
 
